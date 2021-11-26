@@ -1,0 +1,8 @@
+1	Oculus Quest 2 128 Gb	349.00
+2	Oculus Quest 2 256 Gb	449.00
+3	HTC VIVE Pro 2	866.71
+4	HTC VIVE Cosmos	771.96
+5	Valve Index	1079.00
+6	Pimax Vision 8K Plus VR	799.00
+7	HP Reverb G2	549.00	
+8	Playstation VR	299.90
